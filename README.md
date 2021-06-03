@@ -1,1 +1,2 @@
-# Corona-Tracker
+# Corona-Tracker App 
+ using React
